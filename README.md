@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyasslefhaili&label=Profile%20views&color=0e75b6&style=flat" alt="ilyasslefhaili" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyasslefhaili" alt="ilyasslefhaili" /></a> </p>
+
 - 🌱 I’m currently **Student at 1337**
 
 - 👨‍💻 I mostly Code in **C/C++ and java**
