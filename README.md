@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently **Student at 1337**
 
-- 👨‍💻 I mostly Code in **C/C++ and java**
+- 👨‍💻 I mostly Code in **C/C++ and python/django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
