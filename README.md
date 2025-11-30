@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilyass Lefhaili</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-- 🌱 I’m currently **Student at 1337**
-
-- 👨‍💻 I mostly Code in **C/C++ and python/django**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ilyass-lefhaili-03455b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyass lefhaili" height="30" width="40" /></a>
